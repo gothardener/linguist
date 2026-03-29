@@ -6906,6 +6906,16 @@ SELinux Policy:
   - security_classes
   ace_mode: text
   language_id: 880010326
+Sicht:
+  aliases:
+  - sicht
+  - sichtlang
+  type: programming
+  color: "#ffffff"
+  tm_scope: source.sicht
+  extensions:
+  - ".si"
+  ace_mode: text
 SMT:
   type: programming
   extensions:
